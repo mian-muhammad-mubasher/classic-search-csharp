@@ -7,7 +7,7 @@
     <ProjectGuid>{287DA5D7-C800-4467-B3B0-9CB0F5E3559C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassicSearchEngine</RootNamespace>
+    <RootNamespace>ClassicSearch</RootNamespace>
     <AssemblyName>UnInformedSearchEngine</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Threading;
 
 
-namespace ClassicSearchEngine
+namespace ClassicSearch
 {
     class Program
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Wintellect.PowerCollections;
 
-namespace ClassicSearchEngine
+namespace ClassicSearch
 {
     class PriorityQueueFrontier : OrderedBag<Node> , IFrontier
     {

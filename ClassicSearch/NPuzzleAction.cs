@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassicSearchEngine
+namespace ClassicSearch
 {
     abstract class NPuzzleAction : IAction
     {
